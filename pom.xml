@@ -153,6 +153,7 @@
 			<version>1.9</version>
 		</dependency>
 	</dependencies>
+	<!-- 测试git -->
 	<build>
 		<finalName>app</finalName>
 		<plugins>
